@@ -12,8 +12,8 @@ One of the most important filters is the client's filter, with this one we would
 ---Historical behaviour\
 ---Monthly historical behaviour\
 ---Monthly for a specific year\
----When was the last time we sold to them?\
----Which ones are our better clients?\
----Which clients have we not paid enough attention to?
+---When was the last time we sold to them\
+---Which ones are our better clients\
+---Which clients have we not paid enough attention to
 
 Also if you see the tableau file, you will find a prediction worksheet and a frequency worksheet.
