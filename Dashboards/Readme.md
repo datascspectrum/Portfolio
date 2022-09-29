@@ -9,8 +9,8 @@ The amount of sales has a color bar for low sales in red and high sales in green
 We can see a data legend that represents the color for each year we have active.
 
 One of the most important filters is the client's filter, with this one we would be able to see how this client performs in :\
----Historical way\
----Monthly historical way\
+---Historical behaviour\
+---Monthly historical behaviour\
 ---Monthly for a specific year\
 ---When was the last time we sold to them?\
 ---Which ones are our better clients?\
